@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Richard Mante Amo</h1>
 <h3 align="center">A passionate Software developer from Ghana</h3>
-<img width="400" align="right" alt="coding" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
+<img width="400" align="right" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
 - 🌱 I’m currently learning **anything interesting**
 
