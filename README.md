@@ -24,7 +24,7 @@
 <table border="0.5">
 <tr>
 <td>
-<p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
+<p align="left">
 <a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" />
 </a>
 <a href="https://www.linkedin.com/in/amo-richard-9735551ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amo richard" height="30" width="60" />
