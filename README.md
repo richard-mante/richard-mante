@@ -21,21 +21,27 @@
   </tr>
 </table>
 
-
-<p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
-<a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" />
+<table border="0.5" cellspacing="0" cellpadding="10">
+<tr>
+<td><a href="https://www.linkedin.com/in/amo-richard-9735551ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amo richard" height="30" width="60" />
 </a>
-<a href="https://www.linkedin.com/in/amo-richard-9735551ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amo richard" height="30" width="60" />
+</td>
+<td><a href="https://instagram.com/_amorichard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amorichard_" height="30" width="60" />
 </a>
-<a href="https://instagram.com/_amorichard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amorichard_" height="30" width="60" />
+</td>
+<td><a href="https://dribbble.com/Xiarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="xiarm" height="30" width="60" />
 </a>
-<a href="https://dribbble.com/Xiarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="xiarm" height="30" width="60" />
+</td>
+<td><a href="https://www.behance.net/amorichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amorichard" height="30" width="60" />
 </a>
-<a href="https://www.behance.net/amorichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amorichard" height="30" width="60" />
+</td>
+<td><a href="https://medium.com/@amomanterichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amomanterichard" height="30" width="60" />
 </a>
-<a href="https://medium.com/@amomanterichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amomanterichard" height="30" width="60" />
+</td>
+<td><td><a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" />
 </a>
-</p>
+</tr>
+</table>
 
 
 <p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
