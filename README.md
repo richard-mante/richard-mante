@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Richard Mante Amo</h1>
 <h3 align="center">A passionate Software developer & UI/UX designer from Ghana</h3>
-<table border="0.5" width="100%">
+<table border="1" width="100%">
   <tr>
    <td>
       <p>
@@ -14,6 +14,7 @@
       <p>        - ⚡ Fun fact <strong>I love being alone</strong>
 </p>
     </td>
+    <td></td>
     <td>
       <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" alt="coding">
     </td>
