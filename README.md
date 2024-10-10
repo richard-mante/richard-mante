@@ -14,7 +14,6 @@
 </span>
 </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
 <a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" />
 </a>
@@ -30,7 +29,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
 <span>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="images/figma.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
