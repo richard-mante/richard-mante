@@ -1,5 +1,24 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+<h1 align="center">Hi 👋, I'm Richard Mante Amo</h1>
+<h3 align="center">A passionate Software developer from Ghana</h3>
 
+- 🌱 I’m currently learning **anything interesting**
+
+- 💬 Ask me about **mern, asp.net, hybrid app development**
+
+- 📫 How to reach me **<amomanterichard@gmail.com>**
+
+- ⚡ Fun fact **I love being alone**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" /></a>
+<a href="https://www.linkedin.com/in/amo-richard-9735551ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amo richard" height="30" width="60" /></a>
+<a href="https://instagram.com/_amorichard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amorichard_" height="30" width="60" /></a>
+<a href="https://dribbble.com/Xiarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="xiarm" height="30" width="60" /></a>
+<a href="https://www.behance.net/amorichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amorichard" height="30" width="60" /></a>
+<a href="https://medium.com/@amomanterichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amomanterichard" height="30" width="60" /></a>
+</p>
 
 <h1 align="center"></h1>
 <h3 align="left">Languages and Tools:</h3>
