@@ -9,7 +9,7 @@
       </p>
       <p>        - 🌱 I’m currently learning **anything interesting** <br>
 </p>
-      <p>        - 📫 How to reach me **amomanterichard@gmail.com** <br>
+      <p>        - 📫 How to reach me **<amomanterichard@gmail.com>** <br>
 </p>
       <p>        - ⚡ Fun fact **I love being alone**
 </p>
