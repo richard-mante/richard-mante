@@ -10,7 +10,6 @@
 - 📫 How to reach me **<amomanterichard@gmail.com>**
 
 - ⚡ Fun fact **I love being alone**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" /></a>
@@ -20,7 +19,7 @@
 <a href="https://www.behance.net/amorichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amorichard" height="30" width="60" /></a>
 <a href="https://medium.com/@amomanterichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amomanterichard" height="30" width="60" /></a>
 </p>
-
+<h1 align="center"></h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="images/figma.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
@@ -88,9 +87,12 @@
 </a>
 <a href="https://playwrite.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
+<a href="https://playwrite.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
 </p>
-
+<h1 align="center"></h1>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard-mante&show_icons=true&locale=en&layout=compact" alt="richard-mante" width="60%"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=richard-mante&show_icons=true&locale=en" alt="richard-mante" width="55%"/>
   </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-mante&" alt="richard-mante" /></p>
+<h1 align="center"></h1>
