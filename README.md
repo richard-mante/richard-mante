@@ -1,28 +1,45 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Richard Mante Amo</h1>
-<h3 align="center">A passionate Software developer from Ghana</h3>
-<img width="250" align="right" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
+<h3 align="center">A passionate Software developer & UI/UX designer from Ghana</h3>
+<table border="1">
+  <tr>
+   <td>
+      <p>
+        - 💬 Ask me about **mern, asp.net, hybrid app development** <br>
+      </p>
+      <p>        - 🌱 I’m currently learning **anything interesting** <br>
+</p>
+      <p>        - 📫 How to reach me **amomanterichard@gmail.com** <br>
+</p>
+      <p>        - ⚡ Fun fact **I love being alone**
+</p>
+    </td>
+    <td>
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" alt="coding">
+    </td>
+   
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **anything interesting**
 
-- 💬 Ask me about **mern, asp.net, hybrid app development**
-
-- 📫 How to reach me **<amomanterichard@gmail.com>**
-
-- ⚡ Fun fact **I love being alone**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" /></a>
-<a href="https://www.linkedin.com/in/amo-richard-9735551ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amo richard" height="30" width="60" /></a>
-<a href="https://instagram.com/_amorichard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amorichard_" height="30" width="60" /></a>
-<a href="https://dribbble.com/Xiarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="xiarm" height="30" width="60" /></a>
-<a href="https://www.behance.net/amorichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amorichard" height="30" width="60" /></a>
-<a href="https://medium.com/@amomanterichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amomanterichard" height="30" width="60" /></a>
+<p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
+<a href="https://twitter.com/amorichard20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorichard20" height="30" width="60" />
+</a>
+<a href="https://www.linkedin.com/in/amo-richard-9735551ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amo richard" height="30" width="60" />
+</a>
+<a href="https://instagram.com/_amorichard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amorichard_" height="30" width="60" />
+</a>
+<a href="https://dribbble.com/Xiarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="xiarm" height="30" width="60" />
+</a>
+<a href="https://www.behance.net/amorichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amorichard" height="30" width="60" />
+</a>
+<a href="https://medium.com/@amomanterichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amomanterichard" height="30" width="60" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
+<span>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="images/figma.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="images/ai.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
@@ -86,11 +103,22 @@
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="cpp"> <img src="images/ps.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
-<a href="https://playwrite.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+<a href="https://https://playwright.dev/.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
+<a href="https://mudblazor.com" target="_blank" rel="cpp"> <img src="images/mudblazor.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://redux.js.org" target="_blank" rel="cpp"> <img src="images/redux.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://jestjs.io" target="_blank" rel="cpp"> <img src="images/jest.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://medium.com/net-core/using-refit-in-net-0843bb199987" target="_blank" rel="cpp"> <img src="images/refit.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://radzen.com" target="_blank" rel="cpp"> <img src="images/radzen.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://vitest.dev" target="_blank" rel="cpp"> <img src="images/vitest.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="#" target="_blank" rel="cpp"> <img src="images/spec.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="#" target="_blank" rel="cpp"> <img src="images/sqlite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a></span>
 </p>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard-mante&show_icons=true&locale=en&layout=compact" alt="richard-mante" width="60%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=richard-mante&show_icons=true&locale=en" alt="richard-mante" width="55%"/>
-  </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-mante&" alt="richard-mante" /></p>
