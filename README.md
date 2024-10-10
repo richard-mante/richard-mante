@@ -85,10 +85,25 @@
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="cpp"> <img src="images/ps.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
-<a href="https://playwrite.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+<a href="https://https://playwright.dev/.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
-<a href="https://playwrite.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+<a href="https://mudblazor.com" target="_blank" rel="cpp"> <img src="images/mudblazor.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
+<a href="https://redux.js.org" target="_blank" rel="cpp"> <img src="images/redux.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://jestjs.io" target="_blank" rel="cpp"> <img src="images/jest.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://medium.com/net-core/using-refit-in-net-0843bb199987" target="_blank" rel="cpp"> <img src="images/refit.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://radzen.com" target="_blank" rel="cpp"> <img src="images/radzen.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="https://vitest.dev" target="_blank" rel="cpp"> <img src="images/vitest.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="#" target="_blank" rel="cpp"> <img src="images/spec.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+<a href="#" target="_blank" rel="cpp"> <img src="images/sqlite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
+</a>
+
 </p>
 <h1 align="center"></h1>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard-mante&show_icons=true&locale=en&layout=compact" alt="richard-mante" width="60%"/>
