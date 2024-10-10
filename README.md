@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **mern, asp.net, hybrid app development**
 
-- 📫 How to reach me **amomanterichard@gmail.com**
+- 📫 How to reach me **<amomanterichard@gmail.com>**
 
 - ⚡ Fun fact **I love being alone**
 
@@ -22,7 +22,73 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="images/figma.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="images/ai.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="images/tailwind.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="images/react.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="images/reactnative.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/javascript.svg" alt="android" width="40" height="40" style="margin-left:5px"/> </a>
+<a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> <img src="images/typescript.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="images/dotnet.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="images/next.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://vite.dev" target="_blank" rel="noreferrer"> <img src="images/vite.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="c#"> <img src="images/cs.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://cplusplus.com" target="_blank" rel="cpp"> <img src="images/cpp.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://cplusplus.com" target="_blank" rel="cpp"> <img src="images/cpp.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://dart.dev" target="_blank" rel="cpp"> <img src="images/dart.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://flutter.dev" target="_blank" rel="cpp"> <img src="images/flutter.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="cpp"> <img src="images/html.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="cpp"> <img src="images/css.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.git.scm.com" target="_blank" rel="cpp"> <img src="images/git.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.nodejs.org" target="_blank" rel="cpp"> <img src="images/node.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="cpp"> <img src="images/posgress.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.mongodb.com" target="_blank" rel="cpp"> <img src="images/mongodb.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.mysql.com" target="_blank" rel="cpp"> <img src="images/mysql.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.docker.com" target="_blank" rel="cpp"> <img src="images/docker.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://dotnet.microsoft.com" target="_blank" rel="cpp"> <img src="images/dotnet.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://postman.com" target="_blank" rel="cpp"> <img src="images/postman.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="cpp"> <img src="images/express.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://firebase.com" target="_blank" rel="cpp"> <img src="images/firebase.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://supabase.com" target="_blank" rel="cpp"> <img src="images/supabase.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="cpp"> <img src="images/bootstrap.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="#" target="_blank" rel="cpp"> <img src="images/python.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://qwik.com" target="_blank" rel="cpp"> <img src="images/qwik.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="cpp"> <img src="images/ps.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+<a href="https://playwrite.dev" target="_blank" rel="cpp"> <img src="images/playwrite.svg" alt="android" width="40" height="40" style="margin-left:5px"/>
+</a>
+</p>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard-mante&show_icons=true&locale=en&layout=compact" alt="richard-mante" width="40%"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=richard-mante&show_icons=true&locale=en" alt="richard-mante" width="55%"/>
