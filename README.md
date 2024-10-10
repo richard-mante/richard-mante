@@ -5,13 +5,13 @@
   <tr>
    <td>
       <p>
-        - 💬 Ask me about **mern, asp.net, hybrid app development** <br>
+        - 💬 Ask me about <strong>mern, asp.net, hybrid app development</strong> <br>
       </p>
-      <p>        - 🌱 I’m currently learning **anything interesting** <br>
+      <p>        - 🌱 I’m currently learning <strong>anything interesting</strong> <br>
 </p>
-      <p>        - 📫 How to reach me **<amomanterichard@gmail.com>** <br>
+      <p>        - 📫 How to reach me <strong>amomanterichard@gmail.com</strong> <br>
 </p>
-      <p>        - ⚡ Fun fact **I love being alone**
+      <p>        - ⚡ Fun fact <strong>I love being alone</strong>
 </p>
     </td>
     <td>
