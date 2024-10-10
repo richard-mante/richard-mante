@@ -43,8 +43,10 @@
 </table>
 
 
-
-<p align="left" style="border:1px solid grey; display:flex; gap:0px; padding:20px">
+<table border="0.5">
+<tr>
+<td>
+<p align="left">
 <span>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="images/figma.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a>
@@ -128,3 +130,7 @@
 <a href="#" target="_blank" rel="cpp"> <img src="images/sqlite.svg" alt="android" width="60" height="60" style="margin-left:10px"/>
 </a></span>
 </p>
+
+</td>
+</tr>
+</table>
